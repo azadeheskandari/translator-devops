@@ -1,1 +1,1 @@
-./testsecretfile filter=git-crypt diff=git-crypt
+testsecretfile filter=git-crypt diff=git-crypt
