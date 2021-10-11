@@ -1,3 +1,0 @@
-testsecretfile filter=git-crypt diff=git-crypt
-another-file filter=git-crypt diff=git-crypt
-another-file2 filter=git-crypt diff=git-crypt
